@@ -58,5 +58,3 @@
 3. Save the updated model artifacts to the `models/` directory.
 
 =======
-
->>>>>>> 8a0975307f27826c6e09b53eef0435bf08aa6ed8
