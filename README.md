@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Intent Prediction Model for Novo Customer Feedback
 
 ## Project Structure
